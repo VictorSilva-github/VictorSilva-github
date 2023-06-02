@@ -2,6 +2,7 @@
 Formado em Ciência Da Computação na Irlanda (Dublin-Ireland) em 2021🧑‍🎓
 
 ![Victor Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSilva-github&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-github&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block">
  
   Skills:<br/>
