@@ -26,9 +26,7 @@ Formado em Ciência Da Computação na Irlanda (Dublin-Ireland) em 2021🧑‍�
   
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
-  
-  
-  
+ 
 </div>
 <br/>
 🗣🌐Português & English
@@ -42,7 +40,7 @@ I graduated with a degree in Computer Science from an IT College in Dublin,
 Ireland in 2021. For my final essay, I built a game in Java 
 to demonstrate my programming skills and creativity.
 
-Currently, I'm focused on studying backend (Python and C#) and frontend (HTML, CSS, and JavaScript) technologies.
+Currently, I'm focused on studying backend (RUBY and C++) and frontend (HTML, CSS, and JavaScript) technologies.
 I'm passionate about creating user-friendly interfaces and robust server-side applications.
 
 With a detail-oriented approach and problem-solving mindset, I deliver high-quality solutions.
