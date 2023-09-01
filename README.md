@@ -1,32 +1,31 @@
-### Olá! Eu sou o Victor Silva!👋
-Formado em Ciência Da Computação na Irlanda (Dublin-Ireland) em 2021🧑‍🎓
+### Hello! I am Victor Silva! 👋
 
-![Victor Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSilva-github&show_icons=true&theme=dark)
-<div style="display: inline_block">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-github&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
- 
+I graduated in Computer Science in Ireland (Dublin-Ireland) in 2021🧑‍🎓
+
+  <p align="center">
+    <a href="https://github.com/VictorSilva-github/github-readme-streak-s  <p align="center">
+    <a href="https://github.com/VictorSilva-github/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSilva-github&theme=black-ice&hide_border=true&stroke=0000&background=0d1117"/>  
+    </a>
+  </p>
+
+  
+  <br/>
+    <a href="https://github.com/Telles01/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=VictorSilva-github&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Telles01/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-github&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   Skills:<br/>
   
+  <div>
   <img align="center" alt="RUBY ON RAILS" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  
   <img align="center" alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
- 
   <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
- 
 </div>
 <br/>
 🗣🌐Português & English
