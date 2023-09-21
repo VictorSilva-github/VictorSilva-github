@@ -35,7 +35,7 @@ I graduated in Computer Science in Ireland in 2021🧑‍🎓
 **** English ***
 
 
-<br/>I'm a Full Stack Developer in web development. 
+<br/>I'm a Full Stack Developer. 
 I graduated with a degree in Computer Science from an IT College in Dublin,
 Ireland in 2021. For my final essay, I built a game in Java 
 to demonstrate my programming skills and creativity.
