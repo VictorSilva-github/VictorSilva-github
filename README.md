@@ -29,11 +29,9 @@ I graduated in Computer Science in Ireland in 2021🧑‍🎓
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <br/>
-🗣🌐Português & English
+🗣🌐Portuguese & English
 <br/>
 <br/>
-**** English ***
-
 
 <br/>I'm a Full Stack Developer. 
 I graduated with a degree in Computer Science from an IT College in Dublin,
